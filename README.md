@@ -7,3 +7,7 @@ Code snippets for "Introduction to Deep Learning with TensorFlow" at PyData Ann 
 Slides: https://speakerdeck.com/rasbt/introduction-to-deep-learning-with-tensorflow-at-pydata-ann-arbor
 
 <img src="./images/pydata-annarbor-aug.jpg" width="348">
+
+- [Link to the reccording](https://www.youtube.com/watch?v=vRF7ENlwD50&feature=youtu.be)
+
+[<img src="./images/pydata-annarbor-2017.jpg" width="348">](https://www.youtube.com/watch?v=vRF7ENlwD50&feature=youtu.be)
