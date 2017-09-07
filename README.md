@@ -8,6 +8,6 @@ Slides: https://speakerdeck.com/rasbt/introduction-to-deep-learning-with-tensorf
 
 <img src="./images/pydata-annarbor-aug.jpg" width="348">
 
-- [Link to the reccording](https://www.youtube.com/watch?v=vRF7ENlwD50&feature=youtu.be)
+- [Link to the recording](https://www.youtube.com/watch?v=vRF7ENlwD50&feature=youtu.be)
 
 [<img src="./images/pydata-annarbor-2017.jpg" width="348">](https://www.youtube.com/watch?v=vRF7ENlwD50&feature=youtu.be)
